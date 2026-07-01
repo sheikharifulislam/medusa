@@ -1,5 +1,17 @@
 # @medusajs/workflows-sdk
 
+## 3.0.0
+
+### Patch Changes
+
+- [#15683](https://github.com/medusajs/medusa/pull/15683) [`de58ec503bcd82aae3fe576f9a404c36e2525f4c`](https://github.com/medusajs/medusa/commit/de58ec503bcd82aae3fe576f9a404c36e2525f4c) Thanks [@Floofy6](https://github.com/Floofy6)! - chore: add package bugs metadata
+
+- Updated dependencies [[`de58ec503bcd82aae3fe576f9a404c36e2525f4c`](https://github.com/medusajs/medusa/commit/de58ec503bcd82aae3fe576f9a404c36e2525f4c), [`b50a9dbaf3eeb29753fa28afbc1b529c44ec5a51`](https://github.com/medusajs/medusa/commit/b50a9dbaf3eeb29753fa28afbc1b529c44ec5a51)]:
+  - @medusajs/deps@3.0.0
+  - @medusajs/modules-sdk@3.0.0
+  - @medusajs/orchestration@3.0.0
+  - @medusajs/utils@3.0.0
+
 ## 2.17.1
 
 ### Patch Changes
